@@ -1,0 +1,28 @@
+.header {
+  color: red;
+  text-align: center;
+}
+.href {
+  text-align: center;
+}
+.page_header {
+  text-align: center;
+  color: purple;
+}
+p {
+  text-align: center;
+}
+.list_header {
+  text-align: center;
+  color: yellow;
+}
+.list {
+  text-align: center;
+}
+.list2 {
+  text-align: center;
+}
+img {
+  height: 50px;
+  width: 50px;
+}
