@@ -1,0 +1,14 @@
+.home > ul {
+  list-style-type: none;
+}
+
+nav > li {
+  display: flex;
+}
+
+.price {
+  display: inline;
+  background-color: gray;
+  color: white;
+  border-radius: 12px;
+}
